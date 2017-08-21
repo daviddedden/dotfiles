@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-A collection of my dotfiles (vimrc, bash_profile, etc.)
+A collection of my dotfiles (vimrc, sublime, etc.)
